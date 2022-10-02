@@ -8,9 +8,13 @@ BRANCH : COMPUTER SCIENCE AND ENGINEERING
 
 TRAINING BATCH : B2-2M4E
 
-TEAM  MEMBERS    : R. BALA MURUGAN(911019104004),
+TEAM  MEMBERS    :
+                   R. BALA MURUGAN(911019104004),
+
                    M. KRISHNA KANNAN(911019104009),
-                   T. PRAKASH(911019104015)
+                   
+                   T. PRAKASH(911019104015),
+                   
                    K. SUBASH(911019104025)
 
 
